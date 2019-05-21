@@ -8,7 +8,7 @@ groups  = itchat.get_chatrooms(update=True)
 target_group_name=""
 
 for g in groups:
-     if "我们都是最美的" in g["NickName"]:
+     if "想发送的群名" in g["NickName"]:
          target_group_name = g["UserName"]
          print("群id：",target_group_name,)
 send_times = ["09:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00"]
