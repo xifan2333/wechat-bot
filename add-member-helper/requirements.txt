@@ -1,0 +1,10 @@
+certifi==2019.6.16
+chardet==3.0.4
+future==0.17.1
+idna==2.8
+itchat==1.2.32
+pypng==0.0.20
+PyQRCode==1.2.1
+requests==2.22.0
+urllib3==1.25.3
+wxpy==0.3.9.8
