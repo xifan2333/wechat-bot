@@ -21,4 +21,4 @@ python main.py
 
 ### 参考文章
 
-[itchat官方文档](https://itchat.readthedocs.io/zh/latest/)
+[wxpy官方文档](https://wxpy.readthedocs.io/zh/latest/)
